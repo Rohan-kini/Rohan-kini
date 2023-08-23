@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Rohan-kini
-- 👀 I’m interested in learning new skills  
-- 🌱 I’m currently learning python programming language
-- 💞️ I have a constant urge to travel around and explore the outside world
-- 📫 How to reach me ...
+👋 Hi there, I'm Rohan Kini!
+👀 Passionate about learning and acquiring new skills.
+🌱 Currently diving deep into Python, Machine Learning, and Django.
+💼 Actively seeking internships to apply and enhance my skills.
+✈️ An explorer at heart, always ready to travel and experience the world.
+📧 Reach out to me at rohan7kini@gmail.com.
 
 <!---
 Rohan-kini/Rohan-kini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
