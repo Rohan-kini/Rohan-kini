@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-kini&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-kini" /> </p>
 
-- 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering**
+- 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
-- 🌱 I’m currently mastering **Node.js , Langchain**
+- 🌱 I’m currently mastering **Node.js , Langchain.**
 
-- 👯 I’m looking to collaborate on **Backend Development Projects**
+- 👯 I’m looking to collaborate on **Backend Development Projects.**
 
-- 🤝 I’m looking for help with **internships**
+- 🤝 I’m looking for help with **internships.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan-kini](https://github.com/Rohan-kini)
 
