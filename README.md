@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rohan07kini@gmail.com**
 
-- ⚡ Fun fact **I can Dance!**
+- ⚡ Fun fact **I can Dance 🕺!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
