@@ -5,7 +5,7 @@
 
 - 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering**
 
-- 🌱 I’m currently mastering **Node.js Langchain**
+- 🌱 I’m currently mastering **Node.js , Langchain**
 
 - 👯 I’m looking to collaborate on **Backend Development Projects**
 
